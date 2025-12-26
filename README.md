@@ -256,9 +256,5 @@ GPU Computing & HPC, RHEL Engineer
 
 ---
 
-<<<<<<< HEAD
-*Part of my GPU computing portfolio demonstrating sparse linear algebra optimization. See also: [CUDA Matrix Multiplication](../../../cuda_kernels/tree/main/linear-algebra/gemm), [N-Body Simulation](../../../n-body-simulation)*
-=======
 *Part of my GPU computing portfolio demonstrating sparse linear algebra optimization. See also: [CUDA Matrix Multiplication](../../../cuda_kernels/tree/main/linear-algebra/gemm), [N-Body Simulation](../../../simulation/n-body)*
->>>>>>> 1b6e876 (Update README)
 
